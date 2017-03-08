@@ -14,3 +14,5 @@ text reading to audio reading on the fly.
 Case sinario: Reading a book on the train with your phone and when your stop comes up. You can continue with your book by listening to the audio as you walk.
 
 3) Create a plugin system to easily integrate any new code or extenstions.
+
+4) To develop on Android first. With options for other systems at a later date.
