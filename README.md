@@ -38,4 +38,8 @@ Components to be used.
 
 ---
 
-1) Text to speech - eSpeak -- open source. 
+1) Text to speech - eSpeak -- open source. -- Or MaryTTY
+2) Web parsing or scraping -- Possibly Mercury Web Parser API or more likly learn how to do it ourselves. 
+3) Java
+4) Jsp
+
