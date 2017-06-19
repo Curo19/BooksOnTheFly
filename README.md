@@ -23,4 +23,19 @@ Also to save at a later date.
 
 --------------------------------------
 
+Note:
+
+This project will use the following:
+
+- Test driven development - Junit or something equivalent.
+
+- performance testing. -- researh after setting up the first version of the app to learn how to improve its performance 
+and how to measure the performance. 
+
+--------------------------------------
+
 Components to be used. 
+
+---
+
+1) Text to speech - eSpeak -- open source. 
